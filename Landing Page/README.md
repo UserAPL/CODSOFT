@@ -1,0 +1,1 @@
+This Restaurant website is meticulously crafted to deliver an unparalleled browsing experience that remains consistent across various devices. Whether browsing on a desktop, laptop, tablet, or smartphone, this website adapts seamlessly to the screen size, ensuring optimal usability and visual appeal.
